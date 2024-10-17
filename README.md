@@ -27,9 +27,11 @@ Este projeto foi desenvolvido no módulo Servlets com JSP e JDBC com SQL e Java 
 - HTML/CSS/JavaScript: Interface e interatividade.
 
 ## Imagens
-<center>
--Tela de Login
-https://github.com/Almeida63/projeto-jsp/issues/1#issue-2595911107
+<p align="center">
+  <strong>Tela de Login</strong><br>
+  <img src="https://github.com/user-attachments/assets/4e0c1803-bd2d-42e0-8c81-517cefca1402" alt="Tela de Login" />
+</p>
+
 
 -Tela Inicial
 https://github.com/Almeida63/projeto-jsp/issues/2#issue-2595912420
