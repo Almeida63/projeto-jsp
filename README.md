@@ -28,13 +28,13 @@ Este projeto foi desenvolvido no módulo Servlets com JSP e JDBC com SQL e Java 
 
 ## Imagens
 <p align="center">
-  <strong>Tela de Login</strong><br>
-  <img src="https://github.com/user-attachments/assets/4e0c1803-bd2d-42e0-8c81-517cefca1402" alt="Tela de Login" />
+  <strong><u>Tela de Login</u></strong><br><br>
+  <img src="https://github.com/user-attachments/assets/4e0c1803-bd2d-42e0-8c81-517cefca1402"  />
 </p>
 
-
--Tela Inicial
-https://github.com/Almeida63/projeto-jsp/issues/2#issue-2595912420
-
+<p align="center">
+  <strong><u>Tela Inicial</u></strong><br>
+  <img src="https://github.com/user-attachments/assets/95a2025c-de61-4874-b365-01a54bd0fd11" />
+</p>
   
-</center>
+
